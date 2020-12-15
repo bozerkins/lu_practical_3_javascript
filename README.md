@@ -16,6 +16,16 @@ Record in the dataset
 }
 ```
 
+## Task template
+
+The template is located in the ```./task``` folder. 
+
+The ```./task/index.html``` is the file where all the html is located and the entrypoint for the application.
+
+The ```./task/app.js``` would contain all the relevant javascript.
+
+The dataset with all the records is located in ```./task/survey.json```.
+
 ## Task description
 
 The task consists of several parts. **You can get a total of 5 points for this practical task.** 
@@ -41,16 +51,6 @@ The task consists of several parts. **You can get a total of 5 points for this p
     - Add a HTML5 form to add records to the page and display them in the table
     - Add a simple pagination for the table
 
-
-## Task template
-
-The template is located in the ```./task``` folder. 
-
-The ```./task/index.html``` is the file where all the html is located and the entrypoint for the application.
-
-The ```./task/app.js``` would contain all the relevant javascript.
-
-The dataset with all the records is located in ```./task/survey.json```.
 
 ## Start the web-server (localhost)
 ```shell
