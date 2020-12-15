@@ -20,7 +20,7 @@ Record in the dataset
 
 The task consists of several parts. **You can get a total of 5 points for this practical task.** 
 
-- Loading the data into JavaScript (1p)
+- Loading the data into JavaScript from ```survey.json``` file (1p)
     - Use ```XMLHttpRequest``` or ```$.get``` functions
     - Load the data into an array of records (for easier further usage)
     - Each record is on it's on line (separated with ```\n```)
