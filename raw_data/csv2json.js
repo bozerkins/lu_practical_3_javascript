@@ -6,7 +6,7 @@ fs.createReadStream(__dirname+'/survey.csv')
   .pipe(csv())
   .on('data', (row) => {
     // don't save all the data
-    if (list.length === 15000) {
+    if (list.length === 532) {
       return;
     }
     row.CreatedAt = randomDate(new Date(2020, 01, 01), new Date(), 0, 24).getTime();
