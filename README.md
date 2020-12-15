@@ -25,10 +25,10 @@ The task consists of several parts. **You can get a total of 5 points for this p
     - Load the data into an array of records (for easier further usage)
     - Each record is on it's on line (separated with ```\n```)
     - Each record is in JSON format
-- Display amount of records in the dataset (1p)
-    - Count amount of records received (should be ~500)
+- Display number of records in the dataset (1p)
+    - Count number of records received (should be ~500)
     - Place the count somewhere on the page
-- Display the table with the data (1p)
+- Create a HTML5 table with the data (1p)
     - The table should have 9 columns total (for each attribute in records)
     - ```CreatedAt``` field should be displayed in human readable format
 - Create filters for the table (2p)
@@ -38,8 +38,8 @@ The task consists of several parts. **You can get a total of 5 points for this p
 - *Optional* - Complete those who want to practice JavaScript a bit more (0p)
     - Display more statistics about the dataset: age range, different databases in the dataset, different web frameworks in the dataset
     - Explore the dataset. That is an actual data from the survey about developers (and check the survey).
-    - Create a form to add records to the page and display them in the table
-    - Create a simple pagination for the table
+    - Add a HTML5 form to add records to the page and display them in the table
+    - Add a simple pagination for the table
 
 
 ## Task template
