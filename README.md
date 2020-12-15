@@ -18,7 +18,8 @@ Record in the dataset
 
 ## Task description
 
-The task consists of several parts
+The task consists of several parts. **You can get a total of 5 points for this practical task.** 
+
 - Loading the data into JavaScript (1p)
     - Use ```XMLHttpRequest``` or ```$.get``` functions
     - Load the data into an array of records (for easier further usage)
